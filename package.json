@@ -1,0 +1,19 @@
+{
+  "name": "bowling_game",
+  "version": "1.0.0",
+  "description": "JavaScript implementation of the bowling game code kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Citizen-T/Code-Katas-Bowling-Game-JavaScript.git"
+  },
+  "author": "Michael Triantafelow",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Citizen-T/Code-Katas-Bowling-Game-JavaScript/issues"
+  },
+  "homepage": "https://github.com/Citizen-T/Code-Katas-Bowling-Game-JavaScript#readme"
+}
