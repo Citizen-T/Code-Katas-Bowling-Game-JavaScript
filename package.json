@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Citizen-T/Code-Katas-Bowling-Game-JavaScript/issues"
   },
-  "homepage": "https://github.com/Citizen-T/Code-Katas-Bowling-Game-JavaScript#readme"
+  "homepage": "https://github.com/Citizen-T/Code-Katas-Bowling-Game-JavaScript#readme",
+  "devDependencies": {
+    "jasmine": "2.4.1"
+  }
 }
